@@ -22,9 +22,6 @@ A passionate software developer. I love making interesting and creative web appl
 
 
 # 📊GitHub Stats :
-###
-<img align="right" height="250"   src="https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif"  />
-###
 
 ![](https://github-readme-stats.vercel.app/api?username=SaishSatam063&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
