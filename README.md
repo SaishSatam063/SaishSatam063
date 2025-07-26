@@ -27,7 +27,7 @@ A passionate software developer. I love making interesting and creative web appl
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SaishSatam063&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaishSatam063&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saishsatam063&" alt="saishsatam063" /></p>
+
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=SaishSatam063&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
